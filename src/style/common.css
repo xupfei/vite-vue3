@@ -1,0 +1,14 @@
+.operation {
+  margin-right: 15px;
+  color: #4b79dc;
+  cursor: pointer;
+}
+.searchCard {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+.customPagination {
+  justify-content: flex-end;
+  margin-top: 15px;
+}
